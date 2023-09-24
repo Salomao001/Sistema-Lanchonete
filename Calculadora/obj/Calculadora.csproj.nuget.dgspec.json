@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Dev\\Projetos\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Calculadora\\Calculadora.csproj": {
+    "C:\\Dev\\Projetos\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Dev\\Projetos\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Dev\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Dev\\Projetos\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Calculadora\\obj\\",
+        "outputPath": "C:\\Dev\\Projetos\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
